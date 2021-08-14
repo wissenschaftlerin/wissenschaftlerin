@@ -1,4 +1,6 @@
-### Hi there 👋
+### <h1 align="center">Hi there 👋 I'm Feyza</h1>
+<h3 align="center">Moleculer Biotechnology Student</h3>
+
 ![Intro-Scientist](https://user-images.githubusercontent.com/72699045/129462689-028cc56f-c1f4-46be-9b4b-17cadd380f8b.gif)
 
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=wissenschaftlerin&color=00cf00)
