@@ -1,10 +1,6 @@
 ### Hi there 👋
-[<iframe src="https://codesandbox.io/embed/readme-intro-gif-forked-oy3vx?fontsize=14&hidenavigation=1&theme=dark"
-     style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
-     title="README intro.gif (forked)"
-     allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
-     sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
-   ></iframe>]
+[https://user-images.githubusercontent.com/72699045/129462519-0812de8b-0326-4d49-bdc8-3c426723aae2.mp4]
+
 
 <!--
 **wissenschaftlerin/wissenschaftlerin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
