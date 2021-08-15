@@ -5,8 +5,14 @@
 
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=wissenschaftlerin&color=00cf00)
 <!--
+<p align="center">
+	<a href="https://github.com/wissenschaftlerin">
+		  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=wissenschaftlerin&show_icons=true&locale=en&theme=dark&include_all_commits=true&count_private=true" alt="wissenschaftlerin"/>
+		  <img height="180em" align="center" src=https://github-profile-trophy.vercel.app/?username=wissenschaftlerin-ma&theme=darkhub
+username=wissenschaftlerin&show_icons=true&locale=en&layout=compact&langs_count=8&theme=dark" alt="wissenschaftlerin"/>
+	</a>
+</p>
 
-https://github-profile-trophy.vercel.app/?username=wissenschaftlerin-ma&theme=darkhub
 
 **wissenschaftlerin/wissenschaftlerin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
