@@ -1,4 +1,4 @@
-### <h1 align="center">Hi there 👋 I'm Feyza</h1>
+### <h1 align="center">Hi there I'm Feyza 👋</h1>
 <h3 align="center">Molecular Biotechnology Student</h3>
 
 ![Intro-Scientist](https://user-images.githubusercontent.com/72699045/129462689-028cc56f-c1f4-46be-9b4b-17cadd380f8b.gif)
