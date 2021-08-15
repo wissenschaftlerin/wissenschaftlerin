@@ -3,7 +3,7 @@
 
 ![Intro-Scientist](https://user-images.githubusercontent.com/72699045/129462689-028cc56f-c1f4-46be-9b4b-17cadd380f8b.gif)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wissenschaftlerin" alt="wissenschaftlerin" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wissenschaftlerin" alt="wissenschaftlerin"/></a> </p>
 
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=wissenschaftlerin&color=00cf00)
 <!--
