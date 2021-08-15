@@ -6,7 +6,7 @@
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=wissenschaftlerin&color=00cf00)
 <!--
 
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub
+https://github-profile-trophy.vercel.app/?username=wissenschaftlerin-ma&theme=darkhub
 
 **wissenschaftlerin/wissenschaftlerin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
