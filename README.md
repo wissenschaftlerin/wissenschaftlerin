@@ -3,7 +3,6 @@
 
 ![Intro-Scientist](https://user-images.githubusercontent.com/72699045/129462689-028cc56f-c1f4-46be-9b4b-17cadd380f8b.gif)
 
-<br>
 ### Introduction
 - 🧬 3rd year Molecular Biotechnology Student at Turkish-German University  
 - ⚛️ President of QSB-TGU (Quantum Student Branch) and TGU Student Council
