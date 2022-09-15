@@ -5,7 +5,7 @@
 
 ### <h2 align="center">Introduction</h1>
 - 🧬 3rd year Molecular Biotechnology Student at Turkish-German University  
-- ⚛️ President of QSB-TGU (Quantum Student Branch) and TGU Student Council
+- ⚛️ President of [QSB-TGU](https://www.instagram.com/qsb_tgu/) (Quantum Student Branch - Turkish-German University) and TGU Student Council
 - 👩‍🔬 I am a science enthusiast and love to learn new things.
 <br>
 
