@@ -24,7 +24,7 @@
 <a href="https://qiskit.org/" target="blank"><img align="center" 
 src="https://cdn-images-1.medium.com/max/1200/1*Uu8yeBgCb0QRWw7HETGSJw.png" alt="qiskit" height="40" width="40" /></a>
 <a href="https://www.canva.com" target="blank"><img align="center" src="https://logos-world.net/wp-content/uploads/2021/11/Canva-New-Logo.png" alt="canva" height="40" width="70" /></a>
-
+<a href="https://www.mathworks.com/products/matlab.html" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" height="40" width="40" /></a>
 
 <h2 align="center"> Social Media Accounts </h2>
 <p align="center">
