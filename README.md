@@ -17,7 +17,7 @@
 	</a>
 </p>
 
-<h3 align="center">Languages & Applications </h3>
+<h3 align="center">Languages & Frameworks & Applications </h3>
 <p align="center">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://github.com/microsoft/QuantumKatas" target="blank"><img align="center" src="https://qsharp.community/assets/images/qsharp-comm-logo.png" alt="qsharp" height="40" width="40" /></a> 
